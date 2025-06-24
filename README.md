@@ -37,7 +37,7 @@ This task focuses on preparing the Titanic dataset for machine learning by caref
 ---
 
 ## 📁 Files Included:
-- `Titanic_Data_Cleaning.ipynb` (Notebook file with all steps)
+- `task1.ipynb` (Notebook file with all steps)
 - `final_titanic_cleaned.csv` (Cleaned dataset)
 - `README.md` (This file)
 
